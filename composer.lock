@@ -1,0 +1,53 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "3e56ecb45c6c9c9b6195e06da3f4b978",
+    "packages": [
+        {
+            "name": "error17191/sample",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/error17191/sample-php-library.git",
+                "reference": "a7e0a42cc573d3e468e39a4ab0101a4237ad88ef"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/error17191/sample-php-library/zipball/a7e0a42cc573d3e468e39a4ab0101a4237ad88ef",
+                "reference": "a7e0a42cc573d3e468e39a4ab0101a4237ad88ef",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Sample\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "Mohamed Ahmed",
+                    "email": "error17191@gmail.com"
+                }
+            ],
+            "description": "Sample PHP Library",
+            "support": {
+                "source": "https://github.com/error17191/sample-php-library/tree/master",
+                "issues": "https://github.com/error17191/sample-php-library/issues"
+            },
+            "time": "2020-02-09T18:23:17+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "error17191/sample": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

@@ -1,0 +1,11 @@
+{
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/error17191/sample-php-library"
+    }
+  ],
+  "require": {
+    "error17191/sample": "dev-master"
+  }
+}
